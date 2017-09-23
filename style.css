@@ -11,3 +11,9 @@ h1{
 	font-style: cursive;
 	font-size: 32px;
 }
+
+p{
+	font-size: 18px;
+	text-align: justify;
+	color: blue;
+}
